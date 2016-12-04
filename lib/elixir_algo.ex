@@ -1,0 +1,2 @@
+defmodule ElixirAlgo do
+end
