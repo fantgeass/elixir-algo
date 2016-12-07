@@ -1,3 +1,4 @@
+# Given a sorted array of integers, return the index of the given key. Return nil if not found.
 defmodule BinarySearch do
   def search(tuple, value) do
     _search(tuple, value, 0, tuple_size(tuple)-1)
